@@ -1,0 +1,17 @@
+Algoritmo algoritmo_años
+	//INICIO
+	
+	//se piden datos .
+	Escribir "escribe el numero de año mas alto"
+	leer año1
+	Escribir "escribe el segundo año"
+	leer año2
+	//operacion para llegar a los meses. 
+	total_años = año1 - año2
+	total_mese = total_años * 12
+	// dice el resultado de las operaciones.
+	Escribir   total_años " años" " son "  "el total de años trascurridos de" " el "  año1  " y"  " el " año2 
+	
+	Escribir   total_mese " meses" " son el total de meses que pasaron en esos " total_años " años" 
+	// FIN
+FinAlgoritmo

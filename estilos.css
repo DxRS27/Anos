@@ -1,0 +1,39 @@
+body {
+    background-color: cadetblue;
+}
+
+.formulario input {
+    display: flex;
+    margin-top: 50px;
+    margin-left: 50px;
+}
+.formulario input {
+    border-radius: 30px;
+    width: 200px;
+    height: 30px;
+}
+.formulario button {
+    display: flex;
+    margin-top: 35px;
+    margin-left: 85px;
+    cursor: pointer;
+}
+.formulario button {
+    width: 150px;
+    height: 30px;
+    border-bottom: 30px;
+}
+.formulario button p {
+    margin-top: 5px;
+    margin-left: 45px;
+    
+}
+.bac {
+    position: absolute;
+    background-color: slategrey;
+    width: 300px;
+    height: 300px;
+    margin-left: 450px;
+    margin-top: 100px;
+
+}
